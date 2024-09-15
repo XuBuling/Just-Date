@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85340966459",
+    "project_id": "just-date-f9052",
+    "storage_bucket": "just-date-f9052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85340966459:android:a051a3fab9233f9d42961e",
+        "android_client_info": {
+          "package_name": "com.topslacker.justdate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoIWlVPAK1HsUxQ9iIfi1ucAA9dAAqjAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
